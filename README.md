@@ -1,2 +1,2 @@
 # Excel-Homework
-Excel homework assignment 
+Excel homework assignment by Kristen Harnack
